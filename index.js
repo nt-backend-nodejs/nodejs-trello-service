@@ -1,1 +1,1 @@
-console.log("ASSALOMU AL
+console.log("ASSALOMU ALAYKUM")
